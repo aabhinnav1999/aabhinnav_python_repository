@@ -1,0 +1,4 @@
+python is a high-level programming language and general purpose programming language
+web technology consists of html,css and java script
+devops is a methodology which consists of many tools
+python is a high-level programming language and general purpose web technology consists of html,css java script devops methodology which many tools

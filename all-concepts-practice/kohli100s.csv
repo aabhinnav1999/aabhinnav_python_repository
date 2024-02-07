@@ -1,0 +1,80 @@
+No.,Score,Opposition,Venue,Date,format
+1,107,Sri Lanka,"Eden Gardens, Kolkata",24-Dec-09,odi
+2,102*,Bangladesh,"Sher-e-Bangla Cricket Stadium, Dhaka",11-Jan-10,odi
+3,118,Australia,"APCA-VDCA Stadium, Visakhapatnam",20-Oct-10,odi
+4,105,New Zealand,"Nehru Stadium, Guwahati",28-Nov-10,odi
+5,100*,Bangladesh,"Sher-e-Bangla Cricket Stadium, Dhaka",19-Feb-11,odi
+6,107,England,"Sophia Gardens, Cardiff",16-Sep-11,odi
+7,112*,England,"Feroz Shah Kotla Ground, Delhi",17-Oct-11,odi
+8,117,West Indies,"APCA-VDCA Stadium, Visakhapatnam",02-Dec-11,odi
+9,133*,Sri Lanka,"Bellerive Oval, Hobart",28-Feb-12,odi
+10,108,Sri Lanka,"Sher-e-Bangla Cricket Stadium, Dhaka",13-Mar-12,odi
+11,183,Pakistan,"Sher-e-Bangla Cricket Stadium, Dhaka",18-Mar-12,odi
+12,106,Sri Lanka,"MRIC Stadium, Hambantota",21-Jul-12,odi
+13,128*,Sri Lanka,"R. Premadasa Stadium, Colombo",31-Jul-12,odi
+14,102,West Indies,"Queens Park Oval, Port of Spain",05-Jul-13,odi
+15,115,Zimbabwe,"Harare Sports Club, Harare",24-Jul-13,odi
+16,100*,Australia,"Sawai Mansingh Stadium, Jaipur",16-Oct-13,odi
+17,115*,Australia,"VCA Stadium, Nagpur",30-Oct-13,odi
+18,123,New Zealand,"McLean Park, Napier",19-Jan-14,odi
+19,136,Bangladesh,"Khan Shaheb Osman Ali Stadium, Fatullah",26-Feb-14,odi
+20,127,West Indies,"HPCA Stadium, Dharamshala",17-Oct-14,odi
+21,139*,Sri Lanka,"JSCA International Stadium, Ranchi",16-Nov-14,odi
+22,107,Pakistan,"Adelaide Oval, Adelaide",15-Feb-15,odi
+23,138,South Africa,"M. A. Chidambaram Stadium, Chennai",22-Oct-15,odi
+24,117,Australia,"Melbourne Cricket Ground, Melbourne",17-Jan-16,odi
+25,106,Australia,"Manuka Oval, Canberra",20-Jan-16,odi
+26,154*,New Zealand,"Punjab Cricket Association IS Bindra Stadium, Mohali",23-Oct-16,odi
+27,122,England,"Maharashtra Cricket Association Stadium, Pune",15-Jan-17,odi
+28,111*,West Indies,"Sabina Park, Kingston",06-Jul-17,odi
+29,131,Sri Lanka,"R. Premadasa Stadium, Colombo",31-Aug-17,odi
+30,110*,Sri Lanka,"R. Premadasa Stadium, Colombo",03-Sep-17,odi
+31,121,New Zealand,"Wankhede Stadium, Mumbai",22-Oct-17,odi
+32,113,New Zealand,"Green Park Stadium, Kanpur",29-Oct-17,odi
+33,112,South Africa,"Kingsmead Cricket Ground, Durban",01-Feb-18,odi
+34,160*,South Africa,"Newlands Cricket Ground, Cape Town",07-Feb-18,odi
+35,129*,South Africa,"SuperSport Park, Centurion",16-Feb-18,odi
+36,140,West Indies,"ACA Stadium, Guwahati",21-Oct-18,odi
+37,157*,West Indies,"ACA-VDCA Cricket Stadium, Visakhapatnam",24-Oct-18,odi
+38,107,West Indies,"Maharashtra Cricket Association Stadium, Pune",27-Oct-18,odi
+39,104,Australia,"Adelaide Oval, Adelaide",15-Jan-19,odi
+40,116,Australia,"Vidarbha Cricket Association Stadium, Nagpur",05-Mar-19,odi
+41,123,Australia,"JSCA International Stadium, Ranchi",08-Mar-19,odi
+42,120,West Indies,"Queen?s Park Oval, Port of Spain",11-Aug-19,odi
+43,114*,West Indies,"Queen?s Park Oval, Port of Spain",14-Aug-19,odi
+44,113,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",10-Dec-22,odi
+45,113,Sri Lanka,"Barsapara Cricket Stadium, Guwahati",10-Jan-23,odi
+46,166*,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",15-Jan-23,odi
+47,122*,Pakistan,"R.Premadasa Stadium, Khettarama, Colombo",11-Sep-23,odi
+48,103*,Bangladesh,"Maharashtra Cricket Association Stadium, Pune",19-Oct-23,odi
+49,101*,South Africa,"Eden Gardens, Kolkata",05-Nov-23,odi
+1,116,Australia,"Adelaide Oval, Adelaide",24-Jan-12,test
+2,103,New Zealand,"M. Chinnaswamy Stadium, Bangalore",31-Aug-12,test
+3,103,England,"Vidarbha Cricket Association Stadium, Nagpur",13-Dec-12,test
+4,107,Australia,"M. A. Chidambaram Stadium, Chennai",22-Feb-13,test
+5,119,South Africa,"Wanderers Stadium, Johannesburg",18-Dec-13,test
+6,105*,New Zealand,"Basin Reserve, Wellington",14-Feb-14,test
+7,115,Australia,"Adelaide Oval, Adelaide",09-Dec-14,test
+8,141,Australia,"Adelaide Oval, Adelaide",09-Dec-14,test
+9,169,Australia,"Melbourne Cricket Ground, Melbourne",26-Dec-14,test
+10,147,Australia,"Sydney Cricket Ground, Sydney",06-Jan-15,test
+11,103,Sri Lanka,"Galle International Stadium, Galle",12-Aug-15,test
+12,200,West Indies,"Sir Vivian Richards Stadium, North Sound",21-Jul-16,test
+13,211,New Zealand,"Holkar Stadium, Indore",08-Oct-16,test
+14,167,England,"ACA-VDCA Cricket Stadium, Visakhapatnam",17-Nov-16,test
+15,235,England,"Wankhede Stadium, Mumbai",08-Dec-16,test
+16,204,Bangladesh,"Rajiv Gandhi International Cricket Stadium, Hyderabad",09-Feb-17,test
+17,103*,Sri Lanka,"Galle International Stadium, Galle",26-Jul-17,test
+18,104*,Sri Lanka,"Eden Gardens, Kolkata",16-Nov-17,test
+19,213,Sri Lanka,"Vidarbha Cricket Association Stadium, Nagpur",24-Nov-17,test
+20,243,Sri Lanka,"Feroz Shah Kotla Ground, Delhi",02-Dec-17,test
+21,153,South Africa,"SuperSport Park, Centurion",13-Jan-18,test
+22,149,England,"Edgbaston Cricket Ground, Birmingham",01-Aug-18,test
+23,103,England,"Trent Bridge, Nottingham",18-Aug-18,test
+24,139,West Indies,"Saurashtra Cricket Association Stadium, Rajkot",04-Oct-18,test
+25,123,Australia,"Perth Stadium, Perth",14-Dec-18,test
+26,254*,South Africa,"Maharashtra Cricket Association Stadium, Pune",10-Oct-19,test
+27,136,Bangladesh,"Eden Gardens, Kolkata",22-Nov-19,test
+28,186,Australia,"Narendra Modi Stadium, Ahmedabad",12-Mar-23,test
+29,121,West Indies,"Queen's Park Oval, Port of Spain, Trinidad",21-Jul-23,test
+1,122*,Afghanistan,"Dubai International Cricket Stadium, Dubai",08-Sep-22,t20

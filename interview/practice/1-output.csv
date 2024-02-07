@@ -1,0 +1,10 @@
+Timestamp, metric1, metric2, metric3, metric4, metric5
+12345, 1, 2, 3,Yes,None
+12346, 1, 2, 3,No,None
+12347, 1, 2, 3,Yes,None
+12348, 1,None, 2,Yes,None
+12349, 1,None, 3,No,None
+12350, 1,None, 4,Yes,None
+12351, 1, 2, 3,None, 4
+12352, 1, 2, 3,None, 4
+12353, 1, 2, 3,None, 4

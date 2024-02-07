@@ -1,0 +1,1 @@
+DJANGO and java are programming languages. html, css and javascript comes under frontend. DJANGO was introduced after java.

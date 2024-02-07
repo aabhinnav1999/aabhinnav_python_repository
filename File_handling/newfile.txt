@@ -1,0 +1,6 @@
+DJANGO and java are programming languages.
+html, css and javascript comes under frontend.
+DJANGO was introduced after java.
+DJango and Flask are python frameworks
+ Django and Flask are python frameworks
+ Django and Flask are python frameworks

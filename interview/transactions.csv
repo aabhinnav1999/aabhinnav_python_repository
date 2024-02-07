@@ -1,0 +1,5 @@
+Id, date, reference_id,  account, type, mode, amount, balance
+1, 20/04/2023,123, 12345, transfer, credit, 500, 1000
+2, 20/04/2023,123, 12346, transfer, debit, 500, 1000
+3, 20/04/2023,124, 12345, withdraw, debit, 500, 1000
+4, 20/04/2023,125, 12345, deposit, credit, 500, 1000

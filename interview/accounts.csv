@@ -1,0 +1,4 @@
+name,account,bank,status,balance,created_at,updated_at
+Ramesh,12345,ICICI,Active,1000,20/04/2023,20/04/2023
+Suresh,123457,ICICI,Active,10500,18/04/2023,19/04/2023
+Naresh,123456,SBI,Closed,1000,17/04/2023,20/04/2023
