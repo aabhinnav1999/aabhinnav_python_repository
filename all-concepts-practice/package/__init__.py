@@ -1,2 +1,2 @@
-from module_1 import uhello
-from module_1 import table
+from subpackage_1 import uhello         #optional
+from subpackage_2 import table          #optional

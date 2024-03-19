@@ -1,4 +1,4 @@
-from module_1.demo import uhello,table
+from subpackage_1 import uhello,table
 
 # uhello()
 

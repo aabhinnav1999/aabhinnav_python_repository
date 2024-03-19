@@ -1,3 +1,3 @@
-from module_2.demo import student,std1
+from subpackage_2 import student,std1
 
 print(std1.details())
