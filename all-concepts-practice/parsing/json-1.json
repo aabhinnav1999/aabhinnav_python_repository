@@ -1,1 +1,10 @@
-[["slno", "name", "age"], ["1", "abhinav", "25"]]
+{
+    "1": {
+        "name": "abhinav",
+        "age": 24
+    },
+    "2": {
+        "name": "anudeep",
+        "age": 20
+    }
+}
