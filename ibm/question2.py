@@ -23,11 +23,11 @@ class DSU:
 def minReassignments(link_nodes: int, link_from: List[int], link_to: List[int]) -> int:
     m = len(link_from)
     if m < link_nodes - 1:
-        return -1                         # not enough links to ever connect everything
+        return -1                        
 
     dsu = DSU(link_nodes)
     for u, v in zip(link_from, link_to):
-        dsu.union(u-1, v-1)               # convert to 0-based
+        dsu.union(u-1, v-1)   
 
     comps = len({dsu.find(i) for i in range(link_nodes)})
     return comps - 1
