@@ -178,3 +178,8 @@ cython_debug/
 splitwise/
 classnotes/
 text_generator/
+text.csv
+text_g.py
+
+credentials.*
+token.*
